@@ -1,0 +1,31 @@
+CAMPAIGN_ID,CAMPAIGN_NAME,CAMPAIGN_TYPE,CHANNEL,START_DATE,END_DATE,BUDGET,TARGET_AUDIENCE,CAMPAIGN_GOAL,STATUS
+129,Last Chance Email,Sales,Email,0024-07-01,0024-07-31,400,Inactive Users,Reactivation,Completed
+125,Viral Challenge,Influencer,TikTok,0024-07-01,0024-07-31,38000,18-25 All,Brand Awareness,Completed
+130,Push Power Hour,Product Launch,Push Notification,0024-08-01,0024-08-20,8000,App Users,Engagement,Completed
+126,Love Your Look,Sales,Instagram,0024-08-01,0024-08-20,16000,All Segments,Revenue,Completed
+127,Dynamic Remarketing,Performance,Google,0024-09-01,0024-09-30,28000,Site Visitors,Conversion,Completed
+111,Summer Preview,Promotional,Instagram,0024-10-01,0024-11-20,22000,18-35 Female,Brand Awareness,Completed
+114,Athleisure Campaign,Promotional,Facebook,0024-10-01,0024-11-20,10000,25-45 Active,Acquisition,Completed
+128,Community Event,Event,Direct Mail,0024-10-01,0024-11-20,3500,Local Residents,Traffic,Completed
+112,Flash Sale Friday,Sales,Google,0024-11-01,0025-01-05,8000,All Segments,Revenue,Completed
+113,Loyalty Points Bonus,Retention,Email,0024-12-01,0025-01-24,800,High-Value Customers,Engagement,Completed
+101,Spring Fashion Week,Promotional,Instagram,0025-01-01,0025-01-14,25000,18-35 Female,Brand Awareness,Completed
+115,Gen Z Creators,Influencer,TikTok,0025-01-01,0025-01-14,40000,16-24 All,Brand Awareness,Completed
+102,New Year Sale,Sales,Google,0025-02-01,0025-02-07,15000,All Segments,Revenue,Completed
+116,Presidents Day Sale,Sales,Instagram,0025-02-01,0025-02-07,18000,All Segments,Revenue,Completed
+103,VIP Member Drive,Retention,Email,0025-03-01,0024-03-31,1000,Existing Customers,Engagement,Completed
+117,Shopping Cart Recovery,Performance,Google,0025-03-01,0024-03-31,25000,Cart Abandoners,Conversion,Completed
+104,Fitness Resolution,Promotional,Facebook,0025-04-01,0025-04-21,8000,25-45 Active,Acquisition,Completed
+118,Store Anniversary,Event,Direct Mail,0025-04-01,0025-04-21,4500,Local Residents,Traffic,Completed
+105,TikTok Influencer,Influencer,TikTok,0025-05-01,0025-05-30,35000,18-25 All,Brand Awareness,Completed
+119,Win-Back Campaign,Sales,Email,0025-05-01,0025-05-30,600,Dormant Customers,Reactivation,Completed
+106,Valentine Special,Sales,Instagram,0025-06-01,0025-06-14,20000,All Segments,Revenue,Completed
+120,App Exclusive Deals,Product Launch,Push Notification,0025-06-01,0025-06-14,10000,App Users,Engagement,Completed
+107,Search Retargeting,Performance,Google,0025-07-01,0025-07-31,30000,Cart Abandoners,Conversion,Completed
+121,Spring Trends,Promotional,Instagram,0025-07-01,0025-07-31,24000,18-35 Female,Brand Awareness,Completed
+108,Store Grand Opening,Event,Direct Mail,0025-08-01,0025-08-20,5000,Local Residents,Traffic,Completed
+122,Weekend Warriors,Sales,Google,0025-08-01,0025-08-20,9000,All Segments,Revenue,Completed
+109,Clearance Email,Sales,Email,0025-09-01,0025-09-30,500,Dormant Customers,Reactivation,Completed
+123,Premium Member Perks,Retention,Email,0025-09-01,0025-09-30,1200,Frequent Shoppers,Engagement,Completed
+110,Mobile App Launch,Product Launch,Push Notification,0025-10-01,0025-10-28,12000,App Users,Engagement,Active
+124,Workout Wednesdays,Promotional,Facebook,0025-10-01,0025-10-28,7500,25-45 Active,Acquisition,Active
