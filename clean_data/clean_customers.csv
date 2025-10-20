@@ -1,0 +1,131 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,CITY,STATE,AGE,GENDER,CUSTOMER_SEGMENT,ACQUISITION_DATE,ACQUISITION_CHANNEL,LIFETIME_VALUE,CHURN_RISK
+1001,Emily,Johnson,emily.j@email.com,Austin,TX,28,F,Occasional,2022-03-15,Social Media,892.5,Low
+1002,Michael,Chen,m.chen@email.com,Dallas,TX,35,M,High-Value,2021-01-20,Google,4587.3,Low
+1003,Sarah,Williams,sarah.w@email.com,Houston,TX,42,F,Frequent,2021-06-10,Email,2245.8,Medium
+1004,James,Davis,james.d@email.com,San Antonio,TX,31,M,Occasional,2023-02-28,Direct,445.6,High
+1005,Maria,Garcia,maria.g@email.com,Austin,TX,26,F,New,2024-01-05,Instagram,125.4,Medium
+1006,Robert,Taylor,robert.t@email.com,Fort Worth,TX,55,M,High-Value,2020-09-12,Referral,6234.9,Low
+1007,Jessica,Martinez,jessica.m@email.com,Austin,TX,33,F,Frequent,2022-07-22,Facebook,1876.3,Low
+1008,David,Anderson,david.a@email.com,El Paso,TX,29,M,Occasional,2023-05-18,Google,623.7,Medium
+1009,Lisa,Brown,lisa.b@email.com,Austin,TX,38,F,High-Value,2021-04-03,Email,3892.4,Low
+1010,William,Jones,william.j@email.com,Houston,TX,45,M,Dormant,2020-12-15,Direct,234.8,High
+1011,Amanda,Miller,amanda.m@email.com,Dallas,TX,32,F,Frequent,2022-02-10,Instagram,2156.9,Low
+1012,Christopher,Wilson,chris.w@email.com,Austin,TX,37,M,High-Value,2021-03-25,Google,5123.4,Low
+1013,Jennifer,Moore,jen.moore@email.com,Houston,TX,29,F,Occasional,2023-01-15,Social Media,756.3,Medium
+1014,Matthew,Taylor,matt.t@email.com,San Antonio,TX,41,M,Frequent,2021-08-07,Email,1998.7,Low
+1015,Ashley,Thomas,ashley.t@email.com,Fort Worth,TX,27,F,New,2024-01-12,TikTok,189.9,Medium
+1016,Daniel,Jackson,dan.j@email.com,Austin,TX,34,M,High-Value,2020-10-20,Referral,4876.5,Low
+1017,Michelle,White,michelle.w@email.com,Dallas,TX,36,F,Frequent,2022-04-18,Facebook,2345.6,Medium
+1018,Joseph,Harris,joe.h@email.com,El Paso,TX,30,M,Occasional,2023-03-22,Google,534.8,High
+1019,Elizabeth,Martin,liz.m@email.com,Houston,TX,39,F,High-Value,2021-05-14,Direct,3567.2,Low
+1020,Andrew,Thompson,andrew.t@email.com,Austin,TX,44,M,Dormant,2020-11-28,Email,198.7,High
+1021,Samantha,Garcia,sam.g@email.com,San Antonio,TX,25,F,New,2024-01-08,Instagram,215.6,Low
+1022,Ryan,Robinson,ryan.r@email.com,Dallas,TX,33,M,Frequent,2021-07-30,Google,2678.9,Low
+1023,Nicole,Clark,nicole.c@email.com,Fort Worth,TX,40,F,High-Value,2020-09-05,Referral,5432.1,Low
+1024,Kevin,Rodriguez,kevin.r@email.com,Austin,TX,28,M,Occasional,2022-11-10,Social Media,678.4,Medium
+1025,Laura,Lewis,laura.l@email.com,Houston,TX,31,F,Frequent,2022-01-20,Email,1789.3,Low
+1026,Brian,Lee,brian.lee@email.com,El Paso,TX,35,M,Occasional,2023-04-05,Facebook,423.5,High
+1027,Amy,Walker,amy.w@email.com,Dallas,TX,37,F,High-Value,2021-02-12,Google,4123.6,Low
+1028,Justin,Hall,justin.h@email.com,Austin,TX,26,M,New,2024-01-03,TikTok,156.8,Medium
+1029,Rachel,Allen,rachel.a@email.com,San Antonio,TX,43,F,Frequent,2021-09-18,Direct,2234.7,Medium
+1030,Eric,Young,eric.y@email.com,Houston,TX,46,M,Dormant,2020-12-01,Email,267.9,High
+1,Isabella,Garcia,isabella.garcia@example.com,San Jose,California,31,F,New,2025-08-24,Direct,2302.0,Low
+2,Luis,Rodriguez,luis.rodriguez@example.com,San Antonio,Texas,41,F,Occasional,2023-11-24,Google,6219.0,High
+3,Luis,Martinez,luis.martinez@example.com,Boulder,Colorado,30,M,High-Value,2025-07-10,Referral,7123.0,Medium
+4,Olivia,Brown,olivia.brown@example.com,San Francisco,California,34,F,Frequent,2024-12-14,Google,2305.0,Medium
+5,Emma,Moore,emma.moore@example.com,Salt Lake City,Utah,32,F,Frequent,2024-01-24,Instagram,3041.0,Medium
+6,Sophia,Taylor,sophia.taylor@example.com,Houston,Texas,48,F,New,2023-11-17,Facebook,5244.0,High
+7,Lucas,Brown,lucas.brown@example.com,Boulder,Colorado,24,M,New,2025-02-09,Instagram,709.0,Low
+8,Omar,Abebe,omar.abebe@example.com,San Diego,California,42,M,Occasional,2025-04-25,Email,7530.0,Low
+9,Liam,Miller,liam.miller@example.com,Park City,Utah,38,M,High-Value,2024-12-06,TikTok,6050.0,Medium
+10,Ravi,Patel,ravi.patel@example.com,Denver,Colorado,53,F,Occasional,2024-05-17,TikTok,3927.0,Low
+11,Charlotte,Moore,charlotte.moore@example.com,Ogden,Utah,40,F,New,2025-06-29,Referral,5548.0,Low
+12,Priya,Park,priya.park@example.com,Provo,Utah,26,F,Frequent,2024-10-23,Facebook,6959.0,High
+13,Emma,Johnson,emma.johnson@example.com,Fort Worth,Texas,32,F,Occasional,2025-10-06,Instagram,7777.0,Low
+14,Noah,Smith,noah.smith@example.com,Tucson,Arizona,33,M,High-Value,2024-07-04,Instagram,2127.0,High
+15,Lucas,Jones,lucas.jones@example.com,Boulder,Colorado,24,M,High-Value,2024-02-04,Email,2311.0,Medium
+16,Miguel,Ramirez,miguel.ramirez@example.com,Mesa,Arizona,38,F,New,2025-08-28,Google,7008.0,High
+17,Charlotte,Wilson,charlotte.wilson@example.com,Park City,Utah,65,F,High-Value,2025-09-21,Email,232.0,Low
+18,James,Williams,james.williams@example.com,Los Angeles,California,38,M,High-Value,2024-08-07,Direct,1564.0,Medium
+19,Yuki,Gupta,yuki.gupta@example.com,Provo,Utah,19,M,High-Value,2024-09-27,Facebook,5310.0,Medium
+20,Sophia,Wilson,sophia.wilson@example.com,Provo,Utah,52,F,High-Value,2023-12-26,Instagram,1173.0,High
+21,Noah,Brown,noah.brown@example.com,Scottsdale,Arizona,52,M,Frequent,2024-04-18,Email,4517.0,High
+22,Ravi,Patel,ravi.patel@example.com,Salt Lake City,Utah,45,M,New,2024-10-07,Facebook,5604.0,Medium
+23,Ravi,Lee,ravi.lee@example.com,Fort Worth,Texas,36,M,Occasional,2024-08-26,Instagram,7983.0,Low
+24,Zuri,Jalloh,zuri.jalloh@example.com,Ogden,Utah,35,F,New,2024-07-11,Instagram,1510.0,Medium
+25,Lucia,Ramirez,lucia.ramirez@example.com,Mesa,Arizona,18,M,Frequent,2025-05-22,Instagram,3983.0,Low
+26,Camila,Garcia,camila.garcia@example.com,Fort Worth,Texas,38,M,High-Value,2025-02-17,Social Media,9542.0,Low
+27,Ravi,Park,ravi.park@example.com,Scottsdale,Arizona,43,M,Frequent,2025-06-25,Email,8292.0,Medium
+28,Sofia,Garcia,sofia.garcia@example.com,Dallas,Texas,31,F,New,2025-02-13,Direct,6775.0,High
+29,Miguel,Vasquez,miguel.vasquez@example.com,Fort Worth,Texas,45,M,New,2024-08-30,Instagram,8820.0,Medium
+30,Priya,Lee,priya.lee@example.com,Phoenix,Arizona,43,F,Frequent,2024-07-06,Instagram,1405.0,High
+31,Charlotte,Wilson,charlotte.wilson@example.com,Fort Collins,Colorado,25,F,High-Value,2024-04-02,Referral,6771.0,Medium
+32,Benjamin,Williams,benjamin.williams@example.com,Fort Collins,Colorado,29,M,Frequent,2025-10-05,Email,6971.0,Low
+33,Ava,Wilson,ava.wilson@example.com,San Antonio,Texas,64,F,High-Value,2025-05-06,Facebook,4013.0,Medium
+34,Diego,Ramirez,diego.ramirez@example.com,San Antonio,Texas,35,M,Occasional,2025-07-16,TikTok,151.0,Medium
+35,Alejandro,Torres,alejandro.torres@example.com,Dallas,Texas,72,F,Occasional,2025-07-08,Instagram,289.0,High
+36,Carlos,Martinez,carlos.martinez@example.com,Fort Worth,Texas,57,F,High-Value,2024-05-07,TikTok,9843.0,Low
+37,Diego,Martinez,diego.martinez@example.com,Tucson,Arizona,46,F,High-Value,2025-06-21,Referral,9728.0,Low
+38,Benjamin,Wilson,benjamin.wilson@example.com,Austin,Texas,29,M,New,2024-02-06,Instagram,7510.0,Low
+39,Lucas,Williams,lucas.williams@example.com,Park City,Utah,60,M,Occasional,2025-05-02,Instagram,6089.0,Low
+40,Li,Singh,li.singh@example.com,Aurora,Colorado,54,F,Frequent,2025-01-02,Instagram,4417.0,Low
+41,Kofi,Osei,kofi.osei@example.com,San Antonio,Texas,60,M,High-Value,2024-10-23,Email,6139.0,Medium
+42,Carlos,Ramirez,carlos.ramirez@example.com,Fort Worth,Texas,58,F,Frequent,2025-06-23,Direct,3434.0,High
+43,James,Davis,james.davis@example.com,Dallas,Texas,44,M,New,2023-11-26,Google,4614.0,High
+44,Isabella,Torres,isabella.torres@example.com,Boulder,Colorado,45,F,Occasional,2024-02-17,Google,9165.0,High
+45,Miguel,Sanchez,miguel.sanchez@example.com,San Jose,California,62,F,New,2025-10-07,Instagram,3859.0,High
+46,Amara,Jalloh,amara.jalloh@example.com,San Francisco,California,35,F,Occasional,2024-05-22,TikTok,1198.0,Low
+47,Lucia,Garcia,lucia.garcia@example.com,Provo,Utah,22,F,Frequent,2025-07-09,Google,5138.0,Low
+48,Akira,Yamamoto,akira.yamamoto@example.com,Tucson,Arizona,46,F,Occasional,2025-08-13,Social Media,5711.0,Medium
+49,Olivia,Moore,olivia.moore@example.com,Denver,Colorado,24,F,High-Value,2024-11-05,Email,1299.0,Medium
+50,Ravi,Gupta,ravi.gupta@example.com,San Antonio,Texas,33,M,Frequent,2025-01-26,Referral,8634.0,High
+51,Yuki,Gupta,yuki.gupta@example.com,Scottsdale,Arizona,55,M,Frequent,2023-11-16,TikTok,9186.0,Low
+52,Imani,Abebe,imani.abebe@example.com,Sacramento,California,57,F,High-Value,2024-06-19,Facebook,7996.0,Low
+53,Camila,Garcia,camila.garcia@example.com,Fort Collins,Colorado,37,M,Occasional,2024-05-18,Instagram,1128.0,Low
+54,Zuri,Okafor,zuri.okafor@example.com,St. George,Utah,58,F,Frequent,2024-07-15,Social Media,6805.0,Low
+55,Zuri,Osei,zuri.osei@example.com,Salt Lake City,Utah,37,M,High-Value,2024-04-10,Social Media,3602.0,Low
+56,Minho,Gupta,minho.gupta@example.com,San Francisco,California,39,M,New,2024-01-19,Email,9468.0,High
+57,Carlos,Vasquez,carlos.vasquez@example.com,Phoenix,Arizona,34,F,New,2024-11-03,Facebook,9141.0,Low
+58,Alejandro,Torres,alejandro.torres@example.com,Denver,Colorado,36,M,New,2025-02-04,Instagram,3413.0,Medium
+59,Haruto,Zhang,haruto.zhang@example.com,Scottsdale,Arizona,51,F,Occasional,2025-06-28,Google,2270.0,High
+60,Aisha,Diallo,aisha.diallo@example.com,Colorado Springs,Colorado,44,M,New,2025-03-12,Facebook,4369.0,High
+61,Ananya,Singh,ananya.singh@example.com,Dallas,Texas,45,F,Occasional,2024-07-20,TikTok,9815.0,High
+62,Ananya,Yamamoto,ananya.yamamoto@example.com,Salt Lake City,Utah,47,M,High-Value,2024-10-09,Referral,9830.0,Low
+63,Benjamin,Brown,benjamin.brown@example.com,Salt Lake City,Utah,53,M,Frequent,2025-03-09,TikTok,2654.0,High
+64,Li,Gupta,li.gupta@example.com,Denver,Colorado,42,F,High-Value,2025-03-26,Referral,9866.0,High
+65,Priya,Kumar,priya.kumar@example.com,Los Angeles,California,23,M,Frequent,2025-06-07,Google,2564.0,Low
+66,Layla,Kamara,layla.kamara@example.com,Tucson,Arizona,46,F,New,2023-10-29,Social Media,5449.0,Low
+67,James,Wilson,james.wilson@example.com,Houston,Texas,30,M,Occasional,2024-11-20,TikTok,5607.0,High
+68,Valentina,Ramirez,valentina.ramirez@example.com,Provo,Utah,51,M,High-Value,2024-06-02,Instagram,9286.0,High
+69,Luis,Martinez,luis.martinez@example.com,Scottsdale,Arizona,46,M,Frequent,2025-06-01,Email,4546.0,High
+70,Ava,Smith,ava.smith@example.com,Colorado Springs,Colorado,22,F,Occasional,2024-06-24,Facebook,3316.0,Medium
+71,James,Jones,james.jones@example.com,Colorado Springs,Colorado,22,M,Frequent,2025-08-28,Instagram,9005.0,High
+72,Lucia,Hernandez,lucia.hernandez@example.com,San Diego,California,27,F,Frequent,2025-01-14,Facebook,7903.0,Medium
+73,Aisha,Diallo,aisha.diallo@example.com,San Jose,California,45,M,Occasional,2025-03-15,Facebook,4012.0,Low
+74,Kofi,Bello,kofi.bello@example.com,Fort Collins,Colorado,55,F,Frequent,2025-02-14,Google,8844.0,High
+75,Ava,Smith,ava.smith@example.com,San Antonio,Texas,36,F,High-Value,2024-11-22,Email,7124.0,High
+76,Liam,Smith,liam.smith@example.com,Scottsdale,Arizona,35,M,Frequent,2025-02-06,TikTok,5840.0,Medium
+77,Benjamin,Johnson,benjamin.johnson@example.com,San Francisco,California,37,M,High-Value,2023-11-30,Referral,8956.0,High
+78,Sofia,Sanchez,sofia.sanchez@example.com,Fort Worth,Texas,69,F,High-Value,2025-09-26,Instagram,7579.0,Medium
+79,Priya,Gupta,priya.gupta@example.com,Fort Worth,Texas,40,M,High-Value,2025-01-11,TikTok,871.0,Low
+80,Sophia,Wilson,sophia.wilson@example.com,San Jose,California,50,F,Occasional,2025-01-13,Social Media,5618.0,Low
+81,Kwame,Kamara,kwame.kamara@example.com,Mesa,Arizona,72,F,High-Value,2024-02-10,Social Media,3190.0,Low
+82,James,Jones,james.jones@example.com,Fort Worth,Texas,47,M,New,2024-05-19,Social Media,8209.0,High
+83,Benjamin,Miller,benjamin.miller@example.com,Scottsdale,Arizona,30,M,Frequent,2024-08-17,Email,2033.0,High
+84,James,Wilson,james.wilson@example.com,Provo,Utah,32,M,New,2025-09-20,Facebook,1344.0,High
+85,Luis,Torres,luis.torres@example.com,Sacramento,California,55,M,Frequent,2024-06-08,Google,8433.0,High
+86,Zuri,Nkrumah,zuri.nkrumah@example.com,Salt Lake City,Utah,41,M,High-Value,2025-04-01,Referral,4756.0,Low
+87,Akira,Lee,akira.lee@example.com,San Jose,California,57,F,High-Value,2023-12-09,Instagram,3339.0,Low
+88,Isabella,Hernandez,isabella.hernandez@example.com,Houston,Texas,50,F,Occasional,2024-09-05,Instagram,7128.0,High
+89,Emma,Moore,emma.moore@example.com,San Diego,California,55,F,Occasional,2024-06-22,Email,1553.0,Medium
+90,Liam,Williams,liam.williams@example.com,San Antonio,Texas,28,M,New,2024-05-03,Email,224.0,High
+91,Benjamin,Miller,benjamin.miller@example.com,San Diego,California,56,M,Frequent,2025-03-19,Direct,8230.0,Medium
+92,Olivia,Williams,olivia.williams@example.com,San Diego,California,48,F,Occasional,2025-08-14,Social Media,5460.0,High
+93,Lucia,Lopez,lucia.lopez@example.com,Sacramento,California,34,M,New,2025-03-20,Facebook,4527.0,Medium
+94,James,Moore,james.moore@example.com,Aurora,Colorado,33,M,New,2025-08-22,Google,4707.0,High
+95,Haruto,Patel,haruto.patel@example.com,Houston,Texas,50,F,New,2025-07-19,Social Media,2277.0,Low
+96,Emma,Smith,emma.smith@example.com,Tucson,Arizona,41,F,New,2025-08-04,Facebook,6499.0,Low
+97,Yuki,Lee,yuki.lee@example.com,Ogden,Utah,43,M,Occasional,2025-05-29,Referral,9154.0,Low
+98,Olivia,Jones,olivia.jones@example.com,Salt Lake City,Utah,48,F,Frequent,2025-02-18,Email,964.0,Low
+99,Omar,Bello,omar.bello@example.com,Fort Collins,Colorado,54,M,Frequent,2024-02-14,Social Media,6299.0,Low
+100,Lucia,Hernandez,lucia.hernandez@example.com,Provo,Utah,54,F,High-Value,2024-04-08,Email,7699.0,Low
